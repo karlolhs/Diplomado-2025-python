@@ -36,3 +36,4 @@ This is a course in python for PUCP
 4. Colegio Guadalupe
 5. Trilce
 6. El Buen Pastor
+7. Pammer
