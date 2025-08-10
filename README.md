@@ -34,3 +34,5 @@ This is a course in python for PUCP
 2. CET34
 3. Jose Pardo
 4. Colegio Guadalupe
+5. Trilce
+6. El Buen Pastor
