@@ -14,3 +14,10 @@ This is a course in python for PUCP
 3. Psicology
 4. Economics
 5. Sociology
+
+## Movies
+1. Orgullo y Prejuicio
+2. Oppenhaimer
+3. Harry Potter
+4. Long legs
+5. Mulholland Dr
